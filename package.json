@@ -1,0 +1,27 @@
+{
+  "name": "html-to-markdown",
+  "version": "1.0.0",
+  "description": "Simple HTML to Markdown parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-herbert/html-to-markdown.git"
+  },
+  "keywords": [
+    "html",
+    "markdown",
+    "html-to-markdown"
+  ],
+  "author": "Peter Herbert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p-herbert/html-to-markdown/issues"
+  },
+  "homepage": "https://github.com/p-herbert/html-to-markdown#readme",
+  "dependencies": {
+    "html-entities": "^1.2.1"
+  }
+}
