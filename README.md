@@ -1,6 +1,6 @@
 # html-to-markdown
 
-Simple HTML to markdown parser
+Simple HTML to Markdown parser
 
 # Usage
 
