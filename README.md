@@ -14,6 +14,21 @@ Simple HTML to Markdown parser
 
 The following options can be passed to the constructor:
 
+| Options             | Default             |
+|:--------------------|:--------------------|
+| `underline`         | ``                  |
+| `bold`              | `__`                |
+| `paragraph`         | `\n`                |
+| `br`                | ` `                 |
+| `italic`            | `*`                 |
+| `strike`            | `~~`                |
+| `indent`            | `  `                |
+| `unorderedListItem` | `-`                 |
+| `code`              | ` `` `              |
+| `pre`               | ` ``` `             |
+| `blockquote`        | `>`                 |
+| `heading`           | `#`                 |
+
 # Acknowledgments
 
 Thanks to [Sunsama](https://sunsama.com) for allowing me to open source this project.
